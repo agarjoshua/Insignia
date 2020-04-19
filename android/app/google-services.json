@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626172612191",
+    "firebase_url": "https://insignia-c6041.firebaseio.com",
+    "project_id": "insignia-c6041",
+    "storage_bucket": "insignia-c6041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626172612191:android:1d055a1ed4a7f8306615ea",
+        "android_client_info": {
+          "package_name": "com.insignia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626172612191-d9iifui1uakh9nl4gbb4hg5f12uou1ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7uEK9pUxSzv2Res_ACYkvTlosxkKd9Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626172612191-d9iifui1uakh9nl4gbb4hg5f12uou1ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
