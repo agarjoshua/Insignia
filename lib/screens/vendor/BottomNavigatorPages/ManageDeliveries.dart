@@ -29,7 +29,7 @@ class _ManageDeliveriesState extends State<ManageDeliveries> {
         body: Center(
             child: ListView.builder(itemBuilder: (context, index) {
         return ListTile(
-          title: Text('Lorem Ipsum'),
+          title: Text('Lorem Ipsum is a test aye'),
           subtitle: Text('$index'),
         );
       }),
